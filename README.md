@@ -5,8 +5,8 @@ Hello, in this project, I prepared the current Todo app that I made with React-N
 To Do App...
 <br>
 <br><b>Detailed Photos;</b><br>
-<br><b>Loading Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/219326816-d26b923a-6535-4441-a88e-0a3f1afc37cb.png" width="350" height="700" />
+<br><b>Add To Do Screen:<br></b>
+<img src="https://user-images.githubusercontent.com/99321522/221353973-b39766d4-7ba4-4c6e-b17b-e92e976f2f7e.png" width="350" height="700" />
 <br>
 <hr>
 <b>Category Screen:<br></b>
@@ -28,5 +28,6 @@ To Do App...
 <small>Thank you so much for reading and reviewing this far. Don't forget the follow me...</small><br>
 ~Enis Kayra Yavuz
 enenissoftware
+
 <hr>
 <br>
