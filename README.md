@@ -1,8 +1,7 @@
 # React-Native-Another-ToDo-App
 <b>Title: </b>
 Hello, in this project, I prepared the current Todo app that I made with React-Native. You can add new tasks, mark them and delete them.<br>
-<br><b>Contents:</b>
-To Do App...
+
 <br>
 <br><b>Detailed Photos;</b><br>
 <br><b>Add To Do Screen:<br></b>
