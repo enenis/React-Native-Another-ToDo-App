@@ -1,6 +1,6 @@
 # React-Native-Another-ToDo-App
 <b>Title:</b><br>
-Hello, in this project, I prepared the current Todo app that I made with React-Native. You can add new tasks, mark them and delete them.
+Hello, in this project, I prepared the current Todo app that I made with React-Native. You can add new tasks, mark them and delete them.<br>
 <br><b>Contents:</b>
 An app with lots of food categories. Each category has dozens of dishes and there are youtube videos with recipes for each dish...
 <br>
