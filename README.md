@@ -13,10 +13,7 @@ To Do App...
 <img src="https://user-images.githubusercontent.com/99321522/221353998-6d9e94a5-7bc2-48a9-8d80-cad14486132d.png" width="350" height="700" />
 <br>
 <hr>
-
-<br>
-<hr>
-<small>Thank you so much for reading and reviewing this far. Don't forget the follow me...</small><br>
+<small>Thank you so much for reading and reviewing this far.</small><br>
 ~Enis Kayra Yavuz
 enenissoftware
 
